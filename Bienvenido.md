@@ -1,4 +1,5 @@
 ---
 tags:
-  - Inicio
+    - inicio
+    - probando esto
 ---
